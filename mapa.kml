@@ -175,6 +175,182 @@
       </Point>
     </Placemark>
 
+
+  <Placemark>
+      <name>Nodo Huancavelica 1</name>
+      <Point>
+        <coordinates>-75.0056,-12.77576</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 2</name>
+      <Point>
+        <coordinates>-74.9745,-12.78976</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 3</name>
+      <Point>
+        <coordinates>-74.95297,-12.57384</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 4</name>
+      <Point>
+        <coordinates>-74.72419,-13.01383</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 5</name>
+      <Point>
+        <coordinates>-74.56632,-12.85293</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 6</name>
+      <Point>
+        <coordinates>-74.94664,-12.57053</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 7</name>
+      <Point>
+        <coordinates>-74.86292,-12.49345</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 8</name>
+      <Point>
+        <coordinates>-74.86292,-12.40935</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 9</name>
+      <Point>
+        <coordinates>-75.08299,-12.2995</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 10</name>
+      <Point>
+        <coordinates>-75.92272,-12.33456</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 11</name>
+      <Point>
+        <coordinates>-74.86053,-12.3556</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 12</name>
+      <Point>
+        <coordinates>-74.79116,-12.3743</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 13</name>
+      <Point>
+        <coordinates>-74.64525,-12.43739</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 14</name>
+      <Point>
+        <coordinates>-74.4782,-12.61676</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 15</name>
+      <Point>
+        <coordinates>-74.41135,-12.71468</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 16</name>
+      <Point>
+        <coordinates>-74.39202,-12.73283</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Huancavelica 17</name>
+      <Point>
+        <coordinates>-74.35781,-12.79031</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Ayacucho 1</name>
+      <Point>
+        <coordinates>-74.24892,-12.94322</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Ayacucho 2</name>
+      <Point>
+        <coordinates>-74.21657,-13.06273</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Ayacucho 3</name>
+      <Point>
+        <coordinates>-74.22438,-13.17893</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Ayacucho 4</name>
+      <Point>
+        <coordinates>-74.11952,-13.23321</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Ayacucho 5</name>
+      <Point>
+        <coordinates>-73.97898,-13.01602</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Ayacucho 6</name>
+      <Point>
+        <coordinates>-74.14521,-13.63184</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Ayacucho 7</name>
+      <Point>
+        <coordinates>-74.0655,-13.75748</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nodo Ayacucho 8</name>
+      <Point>
+        <coordinates>-73.9496,-13.66019</coordinates>
+      </Point>
+    </Placemark>
+
     <!-- Conexiones en Lima -->
     <Placemark>
       <name>Conexión Lima 1 - Lima 2</name>
@@ -593,5 +769,556 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+  <name>Conexión Lima 14 - Lima 11</name>
+  <LineString>
+    <coordinates>
+      -77.76397,-10.69905 
+      -76.77408,-10.68494
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lima 13 - Lima 6</name>
+  <LineString>
+    <coordinates>
+      -77.75441,-10.78366 
+      -76.40892,-11.88383
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lima 9 - Lima 6</name>
+  <LineString>
+    <coordinates>
+      -77.58226,-11.13596 
+      -76.40892,-11.88383
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lima 4 - Lima 6</name>
+  <LineString>
+    <coordinates>
+      -77.19136,-11.5129 
+      -76.40892,-11.88383
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lima 2 - Lima 7</name>
+  <LineString>
+    <coordinates>
+      -77.06516,-12.08145 
+      -75.93283,-12.48074
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lima 7 - Huancavelica 10</name>
+  <LineString>
+    <coordinates>
+      -75.93283,-12.48074 
+      -75.92272,-12.33456
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lima 6 - Huancavelica 10</name>
+  <LineString>
+    <coordinates>
+      -76.40892,-11.88383 
+      -75.92272,-12.33456
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lima 7 - Huancavelica 1</name>
+  <LineString>
+    <coordinates>
+      -75.93283,-12.48074 
+      -75.0056,-12.77576
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 1 - Huancavelica 2</name>
+  <LineString>
+    <coordinates>
+      -75.0056,-12.77576 
+      -74.9745,-12.78976
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 2 - Huancavelica 4</name>
+  <LineString>
+    <coordinates>
+      -74.9745,-12.78976 
+      -74.72419,-13.01383
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 1 - Huancavelica 3</name>
+  <LineString>
+    <coordinates>
+      -75.0056,-12.77576 
+      -74.95297,-12.57384
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 3 - Huancavelica 6</name>
+  <LineString>
+    <coordinates>
+      -74.95297,-12.57384 
+      -74.94664,-12.57053
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 6 - Huancavelica 7</name>
+  <LineString>
+    <coordinates>
+      -74.94664,-12.57053 
+      -74.86292,-12.49345
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 7 - Huancavelica 8</name>
+  <LineString>
+    <coordinates>
+      -74.86292,-12.49345 
+      -74.86292,-12.40935
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 9 - Huancavelica 8</name>
+  <LineString>
+    <coordinates>
+      -75.08299,-12.2995 
+      -74.86292,-12.40935
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 9 - Huancavelica 7</name>
+  <LineString>
+    <coordinates>
+      -75.08299,-12.2995 
+      -74.86292,-12.49345
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 9 - Huancavelica 11</name>
+  <LineString>
+    <coordinates>
+      -75.08299,-12.2995 
+      -74.86053,-12.3556
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 8 - Huancavelica 11</name>
+  <LineString>
+    <coordinates>
+      -74.86292,-12.40935 
+      -74.86053,-12.3556
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 8 - Huancavelica 12</name>
+  <LineString>
+    <coordinates>
+      -74.86292,-12.40935 
+      -74.79116,-12.3743
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 11 - Huancavelica 12</name>
+  <LineString>
+    <coordinates>
+      -74.86053,-12.3556 
+      -74.79116,-12.3743
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 12 - Huancavelica 13</name>
+  <LineString>
+    <coordinates>
+      -74.79116,-12.3743 
+      -74.64525,-12.43739
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 7 - Huancavelica 13</name>
+  <LineString>
+    <coordinates>
+      -74.86292,-12.49345 
+      -74.64525,-12.43739
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 13 - Huancavelica 14</name>
+  <LineString>
+    <coordinates>
+      -74.64525,-12.43739 
+      -74.4782,-12.61676
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 7 - Huancavelica 14</name>
+  <LineString>
+    <coordinates>
+      -74.86292,-12.49345 
+      -74.4782,-12.61676
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 3 - Huancavelica 5</name>
+  <LineString>
+    <coordinates>
+      -74.95297,-12.57384 
+      -74.94664,-12.57053
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 3 - Huancavelica 14</name>
+  <LineString>
+    <coordinates>
+      -74.95297,-12.57384 
+      -74.4782,-12.61676
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 3 - Huancavelica 15</name>
+  <LineString>
+    <coordinates>
+      -74.95297,-12.57384 
+      -74.41135,-12.71468
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 14 - Huancavelica 15</name>
+  <LineString>
+    <coordinates>
+      -74.4782,-12.61676 
+      -74.41135,-12.71468
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 15 - Huancavelica 16</name>
+  <LineString>
+    <coordinates>
+      -74.41135,-12.71468 
+      -74.39202,-12.73283
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 16 - Huancavelica 17</name>
+  <LineString>
+    <coordinates>
+      -74.39202,-12.73283 
+      -74.35781,-12.79031
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 5 - Huancavelica 17</name>
+  <LineString>
+    <coordinates>
+      -74.94664,-12.57053 
+      -74.35781,-12.79031
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 5 - Huancavelica 16</name>
+  <LineString>
+    <coordinates>
+      -74.94664,-12.57053 
+      -74.39202,-12.73283
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 4 - Huancavelica 5</name>
+  <LineString>
+    <coordinates>
+      -74.72419,-13.01383 
+      -74.94664,-12.57053
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 4 - Huancavelica 17</name>
+  <LineString>
+    <coordinates>
+      -74.72419,-13.01383 
+      -74.35781,-12.79031
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 4 - Ayacucho 1</name>
+  <LineString>
+    <coordinates>
+      -74.72419,-13.01383 
+      -74.24892,-12.94322
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 17 - Ayacucho 1</name>
+  <LineString>
+    <coordinates>
+      -74.35781,-12.79031 
+      -74.24892,-12.94322
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 5 - Ayacucho 1</name>
+  <LineString>
+    <coordinates>
+      -74.94664,-12.57053 
+      -74.24892,-12.94322
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 5 - Ayacucho 2</name>
+  <LineString>
+    <coordinates>
+      -74.94664,-12.57053 
+      -74.21657,-13.06273
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 5 - Ayacucho 3</name>
+  <LineString>
+    <coordinates>
+      -74.94664,-12.57053 
+      -74.22438,-13.17893
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 4 - Ayacucho 3</name>
+  <LineString>
+    <coordinates>
+      -74.72419,-13.01383 
+      -74.22438,-13.17893
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 1 - Ayacucho 2</name>
+  <LineString>
+    <coordinates>
+      -74.24892,-12.94322 
+      -74.21657,-13.06273
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 2 - Ayacucho 3</name>
+  <LineString>
+    <coordinates>
+      -74.21657,-13.06273 
+      -74.22438,-13.17893
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 1 - Ayacucho 5</name>
+  <LineString>
+    <coordinates>
+      -74.24892,-12.94322 
+      -73.97898,-13.01602
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 2 - Ayacucho 4</name>
+  <LineString>
+    <coordinates>
+      -74.21657,-13.06273 
+      -74.11952,-13.23321
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 3 - Ayacucho 4</name>
+  <LineString>
+    <coordinates>
+      -74.22438,-13.17893 
+      -74.11952,-13.23321
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 4 - Ayacucho 5</name>
+  <LineString>
+    <coordinates>
+      -74.11952,-13.23321 
+      -73.97898,-13.01602
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 3 - Ayacucho 5</name>
+  <LineString>
+    <coordinates>
+      -74.22438,-13.17893 
+      -73.97898,-13.01602
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 2 - Ayacucho 5</name>
+  <LineString>
+    <coordinates>
+      -74.21657,-13.06273 
+      -73.97898,-13.01602
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 17 - Ayacucho 5</name>
+  <LineString>
+    <coordinates>
+      -74.35781,-12.79031 
+      -73.97898,-13.01602
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 3 - Ayacucho 6</name>
+  <LineString>
+    <coordinates>
+      -74.22438,-13.17893 
+      -74.14521,-13.63184
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 4 - Ayacucho 6</name>
+  <LineString>
+    <coordinates>
+      -74.11952,-13.23321 
+      -74.14521,-13.63184
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 6 - Ayacucho 7</name>
+  <LineString>
+    <coordinates>
+      -74.14521,-13.63184 
+      -74.0655,-13.75748
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 6 - Ayacucho 8</name>
+  <LineString>
+    <coordinates>
+      -74.14521,-13.63184 
+      -73.9496,-13.66019
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 7 - Ayacucho 8</name>
+  <LineString>
+    <coordinates>
+      -74.0655,-13.75748 
+      -73.9496,-13.66019
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 4 - Ayacucho 8</name>
+  <LineString>
+    <coordinates>
+      -74.11952,-13.23321 
+      -73.9496,-13.66019
+    </coordinates>
+  </LineString>
+</Placemark>
+
   </Document>
 </kml>
+
