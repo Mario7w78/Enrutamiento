@@ -1455,25 +1455,8 @@
   </LineString>
 </Placemark>
 
-<Placemark>
-  <name>Conexión Huancavelica 4 - Huancavelica 17</name>
-  <LineString>
-    <coordinates>
-      -74.72419,-13.01383 
-      -74.35781,-12.79031
-    </coordinates>
-  </LineString>
-</Placemark>
 
-<Placemark>
-  <name>Conexión Huancavelica 4 - Ayacucho 1</name>
-  <LineString>
-    <coordinates>
-      -74.72419,-13.01383 
-      -74.24892,-12.94322
-    </coordinates>
-  </LineString>
-</Placemark>
+
 
 <Placemark>
   <name>Conexión Huancavelica 17 - Ayacucho 1</name>
