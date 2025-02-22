@@ -522,14 +522,6 @@
 
 
 
-
-<Placemark>
-  <name>Nodo Madre de Dios 3</name>
-  <Point>
-    <coordinates>-71.0000,-12.0000</coordinates>
-  </Point>
-</Placemark>
-
 <Placemark>
   <name>Nodo Madre de Dios 4</name>
   <Point>
@@ -557,15 +549,9 @@
   </Point>
 </Placemark>
 
-<Placemark>
-  <name>Nodo Ucayali 4</name>
-  <Point>
-    <coordinates>-70.6333,-10.7000</coordinates>
-  </Point>
-</Placemark>
 
 <Placemark>
-  <name>Nodo Ucayali 5</name>
+  <name>Nodo Ucayali 4</name>
   <Point>
     <coordinates>-75.0167,-7.3500</coordinates>
   </Point>
@@ -698,7 +684,6 @@
 </Placemark>
 
 
-
 <Placemark>
   <name>Nodo Amazonas 4</name>
   <Point>
@@ -710,12 +695,6 @@
   <name>Nodo Amazonas 5</name>
   <Point>
     <coordinates>-77.9333,-6.1417</coordinates>
-  </Point>
-</Placemark>
-<Placemark>
-  <name>Nodo Loreto 1</name>
-  <Point>
-    <coordinates>-73.2472,-3.7472</coordinates>
   </Point>
 </Placemark>
 
@@ -789,14 +768,6 @@
   </Point>
 </Placemark>
 
-
-
-<!--TERMINA-->
-
-
-
-
-    <!-- Conexiones en Lima -->
     <Placemark>
       <name>Conexión Lima 1 - Lima 2</name>
       <LineString>
@@ -1184,16 +1155,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Conexión Lima 7 - Arequipa 2</name>
-      <LineString>
-        <coordinates>
-          -75.93283,-12.48074
-          -72.65159,-15.84868
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Conexión Arequipa 2 - Arequipa 4</name>
       <LineString>
         <coordinates>
@@ -1213,56 +1174,6 @@
         </coordinates>
       </LineString>
     </Placemark>
-
-    <Placemark>
-  <name>Conexión Lima 14 - Lima 11</name>
-  <LineString>
-    <coordinates>
-      -77.76397,-10.69905 
-      -76.77408,-10.68494
-    </coordinates>
-  </LineString>
-</Placemark>
-
-<Placemark>
-  <name>Conexión Lima 13 - Lima 6</name>
-  <LineString>
-    <coordinates>
-      -77.75441,-10.78366 
-      -76.40892,-11.88383
-    </coordinates>
-  </LineString>
-</Placemark>
-
-<Placemark>
-  <name>Conexión Lima 9 - Lima 6</name>
-  <LineString>
-    <coordinates>
-      -77.58226,-11.13596 
-      -76.40892,-11.88383
-    </coordinates>
-  </LineString>
-</Placemark>
-
-<Placemark>
-  <name>Conexión Lima 4 - Lima 6</name>
-  <LineString>
-    <coordinates>
-      -77.19136,-11.5129 
-      -76.40892,-11.88383
-    </coordinates>
-  </LineString>
-</Placemark>
-
-<Placemark>
-  <name>Conexión Lima 2 - Lima 7</name>
-  <LineString>
-    <coordinates>
-      -77.06516,-12.08145 
-      -75.93283,-12.48074
-    </coordinates>
-  </LineString>
-</Placemark>
 
 <Placemark>
   <name>Conexión Lima 7 - Huancavelica 10</name>
@@ -1764,6 +1675,876 @@
   </LineString>
 </Placemark>
 
+<Placemark>
+  <name>Conexión Tumbes 1 - Piura 3</name>
+  <LineString>
+    <coordinates>
+      -80.4515,-3.5669 
+      -81.2719,-4.5772
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Tumbes 1 - Piura 2</name>
+  <LineString>
+    <coordinates>
+      -80.4515,-3.5669 
+      -80.6853,-4.9039
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Piura 2 - Piura 3</name>
+  <LineString>
+    <coordinates>
+      -80.6853,-4.9039 
+      -81.2719,-4.5772
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Piura 2 - Piura 1</name>
+  <LineString>
+    <coordinates>
+      -80.6853,-4.9039 
+      -80.6328,-5.1945
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Piura 1 - Amazonas 2</name>
+  <LineString>
+    <coordinates>
+      -80.6328,-5.1945 
+      -78.5261,-5.6436
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Piura 1 - Lambayeque 2</name>
+  <LineString>
+    <coordinates>
+      -80.6328,-5.1945 
+      -79.7881,-6.6400
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lambayeque 1 - Lambayeque 2</name>
+  <LineString>
+    <coordinates>
+      -79.8442,-6.7767 
+      -79.7881,-6.6400
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lambayeque 1 - La Libertad 2</name>
+  <LineString>
+    <coordinates>
+      -79.8442,-6.7767 
+      -79.4250,-7.2222
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión La Libertad 2 - Cajamarca 4</name>
+  <LineString>
+    <coordinates>
+      -79.4250,-7.2222 
+      -78.7000,-6.7000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión La Libertad 3 - Cajamarca 3</name>
+  <LineString>
+    <coordinates>
+      -78.0667,-7.8000 
+      -78.0000,-6.8000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión La Libertad 2 - La Libertad 1</name>
+  <LineString>
+    <coordinates>
+      -79.4250,-7.2222 
+      -79.0281,-8.1118
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión La Libertad 2 - La Libertad 3</name>
+  <LineString>
+    <coordinates>
+      -79.4250,-7.2222 
+      -78.0667,-7.8000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión La Libertad 1 - La Libertad 3</name>
+  <LineString>
+    <coordinates>
+      -79.0281,-8.1118 
+      -78.0667,-7.8000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 2 - Amazonas 3</name>
+  <LineString>
+    <coordinates>
+      -78.5261,-5.6436 
+      -78.4500,-5.7500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 2 - Amazonas 4</name>
+  <LineString>
+    <coordinates>
+      -78.5261,-5.6436 
+      -77.8667,-5.6500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 3 - Amazonas 4</name>
+  <LineString>
+    <coordinates>
+      -78.4500,-5.7500 
+      -77.8667,-5.6500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 3 - Amazonas 5</name>
+  <LineString>
+    <coordinates>
+      -78.4500,-5.7500 
+      -77.9333,-6.1417
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 4 - Amazonas 5</name>
+  <LineString>
+    <coordinates>
+      -77.8667,-5.6500 
+      -77.9333,-6.1417
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 5 - Amazonas 1</name>
+  <LineString>
+    <coordinates>
+      -77.9333,-6.1417 
+      -77.8690,-6.2310
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 1 - Cajamarca 3</name>
+  <LineString>
+    <coordinates>
+      -77.8690,-6.2310 
+      -78.0000,-6.8000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cajamarca 3 - Cajamarca 2</name>
+  <LineString>
+    <coordinates>
+      -78.0000,-6.8000 
+      -78.2500,-6.9000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cajamarca 2 - Cajamarca 1</name>
+  <LineString>
+    <coordinates>
+      -78.2500,-6.9000 
+      -78.5000,-6.7500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cajamarca 1 - Cajamarca 4</name>
+  <LineString>
+    <coordinates>
+      -78.5000,-6.7500 
+      -78.7000,-6.7000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 1 - Cajamarca 4</name>
+  <LineString>
+    <coordinates>
+      -77.8690,-6.2310 
+      -78.7000,-6.7000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Amazonas 4 - San Martín 2</name>
+  <LineString>
+    <coordinates>
+      -77.8667,-5.6500 
+      -76.9667,-6.0500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión San Martín 4 - Huánuco 2</name>
+  <LineString>
+    <coordinates>
+      -76.5200,-8.1800 
+      -76.0000,-9.5000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ucayali 6 - Huánuco 2</name>
+  <LineString>
+    <coordinates>
+      -75.5000,-9.0500 
+      -76.0000,-9.5000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión San Martín 4 - Ucayali 6</name>
+  <LineString>
+    <coordinates>
+      -76.5200,-8.1800 
+      -75.5000,-9.0500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ucayali 3 - Ucayali 1</name>
+  <LineString>
+    <coordinates>
+      -75.5078,-9.0325 
+      -74.5539,-8.3791
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ucayali 4 - Ucayali 1</name>
+  <LineString>
+    <coordinates>
+      -75.0167,-7.3500 
+      -74.5539,-8.3791
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ucayali 1 - Ucayali 2</name>
+  <LineString>
+    <coordinates>
+      -74.5539,-8.3791 
+      -73.7667,-10.7333
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ucayali 2 - Huancayo 3</name>
+  <LineString>
+    <coordinates>
+      -73.7667,-10.7333 
+      -75.1000,-11.9000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancayo 3 - Huancayo 1</name>
+  <LineString>
+    <coordinates>
+      -75.1000,-11.9000 
+      -75.2049,-12.0651
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancayo 3 - Huancayo 2</name>
+  <LineString>
+    <coordinates>
+      -75.1000,-11.9000 
+      -75.3000,-12.2000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancavelica 10 - Huancayo 1</name>
+  <LineString>
+    <coordinates>
+      -75.92272,-12.33456 
+      -75.2049,-12.0651
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancayo 2 - Huancavelica 9</name>
+  <LineString>
+    <coordinates>
+      -75.3000,-12.2000 
+      -75.08299,-12.2995
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancayo 1 - Huancavelica 9</name>
+  <LineString>
+    <coordinates>
+      -75.2049,-12.0651 
+      -75.08299,-12.2995
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huancayo 3 - Huancavelica 9</name>
+  <LineString>
+    <coordinates>
+      -75.1000,-11.9000 
+      -75.08299,-12.2995
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Lima 11 - Ucayali 2</name>
+  <LineString>
+    <coordinates>
+      -76.77408,-10.68494 
+      -73.7667,-10.7333
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Ayacucho 8 - Apurímac 2</name>
+  <LineString>
+    <coordinates>
+      -73.9496,-13.66019 
+      -73.3878,-13.6556
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 2 - Apurímac 3</name>
+  <LineString>
+    <coordinates>
+      -73.3878,-13.6556 
+      -73.1664,-14.2697
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 3 - Apurímac 1</name>
+  <LineString>
+    <coordinates>
+      -73.1664,-14.2697 
+      -72.8806,-13.6339
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 3 - Apurímac 5</name>
+  <LineString>
+    <coordinates>
+      -73.1664,-14.2697 
+      -72.5383,-14.3422
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 1 - Apurímac 5</name>
+  <LineString>
+    <coordinates>
+      -72.8806,-13.6339 
+      -72.5383,-14.3422
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 1 - Apurímac 4</name>
+  <LineString>
+    <coordinates>
+      -72.8806,-13.6339 
+      -72.3133,-13.6236
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 4 - Cuzco 5</name>
+  <LineString>
+    <coordinates>
+      -72.3133,-13.6236 
+      -72.2000,-13.6000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 4 - Cuzco 3</name>
+  <LineString>
+    <coordinates>
+      -72.3133,-13.6236 
+      -72.1000,-13.8000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cuzco 3 - Cuzco 1</name>
+  <LineString>
+    <coordinates>
+      -72.1000,-13.8000 
+      -71.96734,-13.52264
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cuzco 5 - Cuzco 1</name>
+  <LineString>
+    <coordinates>
+      -72.2000,-13.6000 
+      -71.96734,-13.52264
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cuzco 3 - Cuzco 1</name>
+  <LineString>
+    <coordinates>
+      -72.1000,-13.8000 
+      -71.96734,-13.52264
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cuzco 1 - Cuzco 4</name>
+  <LineString>
+    <coordinates>
+      -71.96734,-13.52264 
+      -71.6000,-13.5000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cuzco 1 - Cuzco 2</name>
+  <LineString>
+    <coordinates>
+      -71.96734,-13.52264 
+      -71.8000,-13.2000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cuzco 2 - Cuzco 4</name>
+  <LineString>
+    <coordinates>
+      -71.8000,-13.2000 
+      -71.6000,-13.5000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 5 - Arequipa 2</name>
+  <LineString>
+    <coordinates>
+      -72.5383,-14.3422 
+      -73.36691,-15.7984
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 3 - Arequipa 2</name>
+  <LineString>
+    <coordinates>
+      -73.1664,-14.2697 
+      -73.36691,-15.7984
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Arequipa 4 - Moquegua 1</name>
+  <LineString>
+    <coordinates>
+      -72.70458,-16.63171 
+      -70.9357,-17.1941
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Arequipa 3 - Moquegua 1</name>
+  <LineString>
+    <coordinates>
+      -72.48674,-16.09502 
+      -70.9357,-17.1941
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Moquegua 1 - Moquegua 2</name>
+  <LineString>
+    <coordinates>
+      -70.9357,-17.1941 
+      -70.6000,-16.8000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Moquegua 2 - Puno 3</name>
+  <LineString>
+    <coordinates>
+      -70.6000,-16.8000 
+      -70.2000,-16.2000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Moquegua 2 - Puno 5</name>
+  <LineString>
+    <coordinates>
+      -70.6000,-16.8000 
+      -70.3000,-15.9000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Puno 3 - Puno 1</name>
+  <LineString>
+    <coordinates>
+      -70.2000,-16.2000 
+      -70.0219,-15.8402
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Puno 1 - Puno 2</name>
+  <LineString>
+    <coordinates>
+      -70.0219,-15.8402 
+      -69.9000,-15.5000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Puno 2 - Puno 4</name>
+  <LineString>
+    <coordinates>
+      -69.9000,-15.5000 
+      -69.8000,-15.8000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Moquegua 1 - Tacna 1</name>
+  <LineString>
+    <coordinates>
+      -70.9357,-17.1941 
+      -70.2516,-18.0127
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Tacna 1 - Tacna 2</name>
+  <LineString>
+    <coordinates>
+      -70.2516,-18.0127 
+      -70.1000,-17.7500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Moquegua 2 - Tacna 2</name>
+  <LineString>
+    <coordinates>
+      -70.6000,-16.8000 
+      -70.1000,-17.7500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Cuzco 4 - Madre de Dios 2</name>
+  <LineString>
+    <coordinates>
+      -71.6000,-13.5000 
+      -69.5000,-13.0000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Puno 2 - Madre de Dios 2</name>
+  <LineString>
+    <coordinates>
+      -69.9000,-15.5000 
+      -69.5000,-13.0000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Madre de Dios 2 - Madre de Dios 1</name>
+  <LineString>
+    <coordinates>
+      -69.5000,-13.0000 
+      -69.2300,-12.5900
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Madre de Dios 1 - Madre de Dios 4</name>
+  <LineString>
+    <coordinates>
+      -69.2300,-12.5900 
+      -69.8000,-11.5000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+
+<Placemark>
+  <name>Conexión La Libertad 1 - Áncash 2</name>
+  <LineString>
+    <coordinates>
+      -79.0281,-8.1118 
+      -78.5783,-9.0853
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Áncash 2 - Áncash 3</name>
+  <LineString>
+    <coordinates>
+      -78.5783,-9.0853 
+      -77.8000,-9.0500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión La Libertad 3 - Áncash 3</name>
+  <LineString>
+    <coordinates>
+      -78.0667,-7.8000 
+      -77.8000,-9.0500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Áncash 3 - Áncash 1</name>
+  <LineString>
+    <coordinates>
+      -77.8000,-9.0500 
+      -77.5278,-9.5278
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Áncash 2 - Áncash 1</name>
+  <LineString>
+    <coordinates>
+      -78.5783,-9.0853 
+      -77.5278,-9.5278
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Áncash 1 - Lima 14</name>
+  <LineString>
+    <coordinates>
+      -77.5278,-9.5278 
+      -77.76397,-10.69905
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Áncash 1 - Lima 10</name>
+  <LineString>
+    <coordinates>
+      -77.5278,-9.5278 
+      -76.99884,-10.48741
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huánuco 3 - Lima 10</name>
+  <LineString>
+    <coordinates>
+      -76.5000,-10.2000 
+      -76.99884,-10.48741
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huánuco 3 - Huánuco 1</name>
+  <LineString>
+    <coordinates>
+      -76.5000,-10.2000 
+      -76.2422,-9.9306
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huánuco 1 - Huánuco 4</name>
+  <LineString>
+    <coordinates>
+      -76.2422,-9.9306
+      -75.8000,-9.8000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huánuco 1 - Huánuco 2</name>
+  <LineString>
+    <coordinates>
+      -76.2422,-9.9306
+      -76.0000,-9.5000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión Huánuco 4 - Huánuco 2</name>
+  <LineString>
+    <coordinates>
+      -75.8000,-9.8000 
+      -76.0000,-9.5000
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión San Martín 2 - San Martín 1</name>
+  <LineString>
+    <coordinates>
+      -76.9667,-6.0500 
+      -76.3667,-6.4833
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión San Martín 3 - San Martín 2</name>
+  <LineString>
+    <coordinates>
+      -76.7667,-7.1667 
+      -76.9667,-6.0500
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Conexión San Martín 3 - San Martín 4</name>
+  <LineString>
+    <coordinates>
+      -76.7667,-7.1667 
+      -76.5200,-8.1800
+    </coordinates>
+  </LineString>
+</Placemark>
+
+
+<Placemark>
+  <name>Conexión Puno 3 - Puno 5</name>
+  <LineString>
+    <coordinates>
+      -70.2000,-16.2000 
+      -70.3000,-15.9000
+    </coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Conexión Puno 5 - Puno 1</name>
+  <LineString>
+    <coordinates>
+      -70.3000,-15.9000 
+      -70.0219,-15.8402
+    </coordinates>
+  </LineString>
+</Placemark>
   </Document>
 </kml>
 
