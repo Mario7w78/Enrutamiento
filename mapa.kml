@@ -3,7 +3,6 @@
   <Document>
     <name>Red Dorsal de Fibra Óptica</name>
 
-    
     <!-- Nodos en Lima -->
     <Placemark>
       <name>Nodo Lima 1</name>
@@ -770,25 +769,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <Placemark>
   <name>Conexión Lima 1 - Lima 2 - 17.21 km</name>
   <LineString>
@@ -1384,26 +1364,6 @@
 </Placemark>
 
 <Placemark>
-  <name>Conexión Huancavelica 3 - Huancavelica 5 - 29.76 km</name>
-  <LineString>
-    <coordinates>
-      -74.95297,-12.57384 
-      -74.56632,-12.85293
-    </coordinates>
-  </LineString>
-</Placemark>
-
-<Placemark>
-  <name>Conexión Huancavelica 3 - Huancavelica 14 - 32.25 km</name>
-  <LineString>
-    <coordinates>
-      -74.95297,-12.57384 
-      -74.4782,-12.61676
-    </coordinates>
-  </LineString>
-</Placemark>
-
-<Placemark>
   <name>Conexión Huancavelica 3 - Huancavelica 15 - 22.77 km</name>
   <LineString>
     <coordinates>
@@ -1955,6 +1915,17 @@
     </coordinates>
   </LineString>
 </Placemark>
+
+<Placemark>
+  <name>Conexión Ucayali 3 - Ucayali 5</name>
+  <LineString>
+    <coordinates>
+      -75.5078,-9.0325 
+      -75.5000,-9.0500
+    </coordinates>
+  </LineString>
+</Placemark>
+
 
 <Placemark>
   <name>Conexión Ucayali 3 - Ucayali 1</name>
