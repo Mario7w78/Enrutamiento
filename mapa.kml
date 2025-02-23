@@ -1403,15 +1403,6 @@
   </LineString>
 </Placemark>
 
-<Placemark>
-  <name>Conexión Huancavelica 5 - Huancavelica 17 - 101.77 km</name>
-  <LineString>
-    <coordinates>
-      -74.56632,-12.85293
-      -74.35781,-12.79031
-    </coordinates>
-  </LineString>
-</Placemark>
 
 <Placemark>
   <name>Conexión Huancavelica 5 - Huancavelica 16 - 168.37 km</name>
@@ -1452,26 +1443,6 @@
     <coordinates>
       -74.56632,-12.85293
       -74.24892,-12.94322
-    </coordinates>
-  </LineString>
-</Placemark>
-
-<Placemark>
-  <name>Conexión Huancavelica 5 - Ayacucho 2 - 119.00 km</name>
-  <LineString>
-    <coordinates>
-      -74.56632,-12.85293
-      -74.21657,-13.06273
-    </coordinates>
-  </LineString>
-</Placemark>
-
-<Placemark>
-  <name>Conexión Huancavelica 5 - Ayacucho 3 - 85.55 km</name>
-  <LineString>
-    <coordinates>
-      -74.56632,-12.85293
-      -74.22438,-13.17893
     </coordinates>
   </LineString>
 </Placemark>
@@ -1586,15 +1557,6 @@
   </LineString>
 </Placemark>
 
-<Placemark>
-  <name>Conexión Ayacucho 4 - Ayacucho 6 - 2.13 km</name>
-  <LineString>
-    <coordinates>
-      -74.11952,-13.23321 
-      -74.14521,-13.63184
-    </coordinates>
-  </LineString>
-</Placemark>
 
 <Placemark>
   <name>Conexión Ayacucho 6 - Ayacucho 7 - 157.40 km</name>
@@ -1626,15 +1588,6 @@
   </LineString>
 </Placemark>
 
-<Placemark>
-  <name>Conexión Ayacucho 4 - Ayacucho 8 - 125.27 km</name>
-  <LineString>
-    <coordinates>
-      -74.11952,-13.23321 
-      -73.9496,-13.66019
-    </coordinates>
-  </LineString>
-</Placemark>
 
 <Placemark>
   <name>Conexión Tumbes 1 - Piura 3 - 275.64 km</name>
@@ -2056,6 +2009,17 @@
     </coordinates>
   </LineString>
 </Placemark>
+
+<Placemark>
+  <name>Conexión Apurímac 2 - Apurímac 1</name>
+  <LineString>
+    <coordinates>
+      -73.3878,-13.6556 
+      -72.8806,-13.6339
+    </coordinates>
+  </LineString>
+</Placemark>
+
 
 <Placemark>
   <name>Conexión Apurímac 3 - Apurímac 1</name>
