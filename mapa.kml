@@ -767,6 +767,24 @@
   </Point>
 </Placemark>
 
+<Placemark>
+  <name>Nodo Pasco 1 </name>
+  <Point>
+    <coordinates>-76.2667,-10.6833</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Nodo Pasco 2 </name>
+  <Point>
+    <coordinates>-75.4000,-10.5833</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Nodo Pasco 3 </name>
+  <Point>
+    <coordinates>-75.2736,-10.7376</coordinates>
+  </Point>
+</Placemark>
 
 
     <Placemark>
@@ -1981,14 +1999,67 @@
 </Placemark>
 
 <Placemark>
-  <name>Conexión Lima 11 - Ucayali 2</name>
+  <name>Conexión Lima 11 - Pasco 1</name>
   <LineString>
     <coordinates>
       -76.77408,-10.68494 
+      -76.2667,-10.6833
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Pasco 1 - Pasco 2</name>
+  <LineString>
+    <coordinates>
+      -76.2667,-10.6833
+      -75.4000,-10.5833
+    </coordinates>
+  </LineString>
+</Placemark>
+
+
+<Placemark>
+  <name>Pasco 3 - Pasco 2</name>
+  <LineString>
+    <coordinates>
+      -75.2736,-10.7376
+      -75.4000,-10.5833
+    </coordinates>
+  </LineString>
+</Placemark>
+
+
+<Placemark>
+  <name>Pasco 1 - Pasco 3</name>
+  <LineString>
+    <coordinates>
+      -76.2667,-10.6833
+      -75.2736,-10.7376
+    </coordinates>
+  </LineString>
+</Placemark>
+
+<Placemark>
+  <name>Pasco 3 - Ucayali 2</name>
+  <LineString>
+    <coordinates>
+      -75.2736,-10.7376
       -73.7667,-10.7333
     </coordinates>
   </LineString>
 </Placemark>
+
+<Placemark>
+  <name>Pasco 3 - Huancayo 3</name>
+  <LineString>
+    <coordinates>
+      -75.2736,-10.7376
+      -75.1000,-11.9000
+    </coordinates>
+  </LineString>
+</Placemark>
+
 
 <Placemark>
   <name>Conexión Ayacucho 8 - Apurímac 2</name>
